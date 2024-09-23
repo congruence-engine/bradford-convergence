@@ -10,7 +10,7 @@ In the final year of the project we were seeking to focus our attention on enact
 
 Alex Fitzpatrick : Conceptualization,Methodology, Project administration, Resources
 
-julia Ankenbrand : Conceptualization,Methodology, Project administration, Resources
+Julia Ankenbrand : Conceptualization,Methodology, Project administration, Resources
 
 
 ## Licence 
