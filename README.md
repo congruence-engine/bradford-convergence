@@ -24,7 +24,9 @@ Each of the Bradford Convergence workshops considered the research questions the
    
 
 ## Data sources 
-Can we here link to the investigations that were connected to each workshop? Cause we did not work with anything new.
+
+[Connecting environmental data: Bradford, textiles, and river pollution](https://congruence-engine.github.io/connecting-environmental-data/)
+
 
 ## Investigation methods/ tools/ code/ software
 Collaborative workshops, including presentations, discussions and playing with mapping tools
