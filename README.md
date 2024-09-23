@@ -11,7 +11,27 @@ In the final year of the project we were seeking to focus our attention on enact
 
 Alex Fitzpatrick : Conceptualization,Methodology, Project administration, Resources
 
-julia Ankenbrand : Conceptualization,Methodology, Project administration, Resources
+Julia Ankenbrand : Conceptualization,Methodology, Project administration, Resources
+
+
+
+## Research questions:
+Each of the Bradford Convergence workshops considered the research questions the project set around the social machine approach. We were interested what could be learned about them by bringing the Bradford social machine in contact with the CE social machine.
+
+- What are the technical and social requirements for a social machine?
+- What motivates participants in a social machine?
+- What model of governance is useful for a social machine? What needs to be local, what central? Who holds centrally managed aspects?
+- How do we negotiate diverse models of knowledge, expertise and linking?
+- How do we not replicate oppressive structures, but set up models of reciprocal care? 
+   
+
+## Data sources 
+Can we here link to the investigations that were connected to each workshop? Cause we did not work with anything new.
+
+## Investigation methods/ tools/ code/ software
+Collaborative workshops, including presentations, discussions and playing with mapping tools
+
+## Outputs  
 
 
 ## Licence 
