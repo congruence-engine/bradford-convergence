@@ -5,7 +5,7 @@
 In the final year of the project we were seeking to focus our attention on enacting the national collection social machine in Bradford. We were looking to pay particular attention to the infrastructural set up of the social machine - how the technical set up and social relationships enable researchers, institutions and interested parties to make connections between collections and undertake new inquiries. This was trialled by organising 6 workshops with partners in Bradford. Most were organised in conjunction with one of the other investigations. 
 
 
-## Research questions:
+## Research questions
 
 Each of the Bradford Convergence workshops considered the research questions the project set around the social machine approach. We were interested what could be learned about them by bringing the Bradford social machine in contact with the CE social machine.
 
@@ -22,7 +22,7 @@ Data sources
 Collaborative workshops, including presentations, discussions and playing with mapping tools.
 
 
-### Workshops
+## Workshops
 
 **Geolocating Photographs Workshop - 15 May 2024**
 
