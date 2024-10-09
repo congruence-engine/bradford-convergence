@@ -16,6 +16,13 @@ How do we negotiate diverse models of knowledge, expertise and linking?
 How do we not replicate oppressive structures, but set up models of reciprocal care?
 Data sources
 
+## People 
+
+**Alex Fitzpatrick** : Conceptualization, Methodology, Project administration, Resources
+
+**Julia Ankenbrand** : Conceptualization, Methodology, Project administration, Resources
+
+
 
 ## Investigation methods/ tools/ code/ software
 
@@ -126,13 +133,6 @@ Victoria Hall	https://en.wikipedia.org/wiki/Victoria_Hall,_Saltaire
 
 [Connecting environmental data: Bradford, textiles, and river pollution](https://congruence-engine.github.io/connecting-environmental-data/)
 
-
-
-## People 
-
-**Alex Fitzpatrick** : Conceptualization, Methodology, Project administration, Resources
-
-**Julia Ankenbrand** : Conceptualization, Methodology, Project administration, Resources
 
 
 ## Licence 
