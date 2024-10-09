@@ -17,6 +17,13 @@ How do we not replicate oppressive structures, but set up models of reciprocal c
 Data sources
 
 
+## People 
+
+**Alex Fitzpatrick** : Conceptualization, Methodology, Project administration, Resources
+
+**Julia Ankenbrand** : Conceptualization, Methodology, Project administration, Resources
+
+
 ## Investigation methods/ tools/ code/ software
 
 Collaborative workshops, including presentations, discussions and playing with mapping tools.
@@ -121,13 +128,6 @@ Titus Salt	https://en.wikipedia.org/wiki/Titus_Salt
 James Roberts	https://en.wikipedia.org/wiki/Sir_James_Roberts,_1st_Baronet
 Victoria Hall	https://en.wikipedia.org/wiki/Victoria_Hall,_Saltaire
 
-
-
-## People 
-
-**Alex Fitzpatrick** : Conceptualization, Methodology, Project administration, Resources
-
-**Julia Ankenbrand** : Conceptualization, Methodology, Project administration, Resources
 
 
 ## Licence 
