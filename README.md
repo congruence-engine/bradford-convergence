@@ -18,9 +18,49 @@ Data sources
 
 ## People 
 
-**Alex Fitzpatrick** : Conceptualization, Methodology, Project administration, Resources
+**Arran Rees** 
 
-**Julia Ankenbrand** : Conceptualization, Methodology, Project administration, Resources
+Conceptualisation, Methodology 
+
+**Katerina Webb-Bourne**
+
+Project Administration  
+
+**Natasha Kitcher**
+
+Methodology, Investigation, Data Curation 
+
+**Max Long**
+
+Methodology, Investigation, Data Curation 
+
+**Daniel Belteki**
+
+Methodology, Investigation, Data Curation 
+
+ 
+
+**Additional Resources Contributed By**:
+
+Rosie Freeman 
+
+Tim Smith 
+
+Friends of Bradford’s Becks 
+
+Saltaire Collection 
+
+Aire Rivers Trust 
+
+Leeds City Council 
+
+Bradford Movie Makers 
+
+West Yorkshire Queer Stories 
+
+509 Arts: Lost Mills and Ghost Mansions 
+
+Bradford Sound Systems: Rites of Passage 
 
 
 
