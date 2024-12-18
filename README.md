@@ -18,6 +18,15 @@ Data sources
 
 ## People 
 
+**Alex Fitzpatrick** 
+
+Conceptualization, Methodology, Project administration, Resources
+
+
+**Julia Ankenbrand** 
+
+Conceptualization, Methodology, Project administration, Resources
+
 **Arran Rees** 
 
 Conceptualisation, Methodology 
