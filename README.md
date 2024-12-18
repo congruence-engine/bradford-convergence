@@ -17,6 +17,17 @@ How do we not replicate oppressive structures, but set up models of reciprocal c
 Data sources
 
 ## People 
+**Alex Fitzpatrick** 
+
+Conceptualisation, Methodology, Resources, Project Administration, Writing
+
+**Julia Ankenbrand**
+
+Conceptualisation, Methodology, Resources, Project Administration, Writing
+
+**Arran Rees** 
+
+Conceptualisation, Methodology 
 
 **Arran Rees** 
 
